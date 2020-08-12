@@ -148,9 +148,7 @@ class RelatedCollectionViewTest(TestCase):
                     "photos_number"   : 1,
                     "user_first_name" : "first",
                     "user_last_name"  : "last",
-                    "tags"            : [
-                        "tag"
-                    ]
+                    "tags"            : ["tag"]
                 }
             ]
         })
